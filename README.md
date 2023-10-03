@@ -1,1 +1,3 @@
-### Hey, glad  you're here. I hope you find something interesting. *Checkout Graphite.*
+### Hey, fancy seeing you here. May your quest for code be fruitful 
+
+*(whisper)* *Checkout Graphite*
