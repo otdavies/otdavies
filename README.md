@@ -1,4 +1,6 @@
-### Hey, fancy seeing you here. May your quest for code be fruitful.
+### Whoa, how'd you end up here? Enjoy clicking around on my stochastic programming adventures.
+
+Want to see my art instead? Go [here](https://psyfer.io/)
 
 Feeling down or unmotivated? Try [this](https://github.com/otdavies/CreativeProfessionalWellness)
 
