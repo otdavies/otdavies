@@ -1,6 +1,6 @@
 ### Whoa, how'd you end up here? 
 
-Enjoy clicking around on my stochastic programming adventures.
+Enjoy clicking around my stochastic programming adventures.
 
 Want to see my art instead? Go [here](https://psyfer.io/)
 
