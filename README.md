@@ -18,8 +18,8 @@ Bored of my profile? Go checkout someone elses!
         </a>
       </td>
       <td align="center">
-        <a href="https://octo-ring.com/p/otdavies" title="Octo Ring Profile">
-          🔖 Bookmark
+        <a href="https://psyfer.io" title="Visit My ArtStation">
+          🎨 ArtStation
         </a>
       </td>
       <td align="center">
