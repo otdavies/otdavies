@@ -36,4 +36,4 @@ Bored of my profile? Go checkout someone elses!
   </table>
 </div>
 
-![Profile Views](https://profile-counter.psyfer.workers.dev)
+![Profile Views](https://view-counter.psyfer.workers.dev)
