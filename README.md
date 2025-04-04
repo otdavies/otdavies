@@ -35,3 +35,5 @@ Bored of my profile? Go checkout someone elses!
     </tr>
   </table>
 </div>
+
+![Profile Views](https://profile-counter.psyfer.workers.dev)
