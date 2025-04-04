@@ -18,8 +18,13 @@ Bored of my profile? Go checkout someone elses!
         </a>
       </td>
       <td align="center">
-        <a href="https://psyfer.io" title="Random">
-          🎨 Random
+        <a href="https://psyfer.io" title="Art">
+          🎨 Art
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://octo-ring.com/p/otdavies/random" title="Random Profile">
+          🎲 Random
         </a>
       </td>
       <td align="center">
