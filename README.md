@@ -9,7 +9,7 @@ Feeling down or unmotivated? Try [this](https://github.com/otdavies/CreativeProf
 Did you wake up this morning and realize you need an *opensource non-destructive procedural vector editor?* Checkout [Graphite](https://github.com/GraphiteEditor/Graphite)
 
 Bored of my profile? Go checkout someone elses!
-<div align="Left">
+<div align="left">
   <table>
     <tr>
       <td align="center">
