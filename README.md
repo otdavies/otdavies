@@ -18,8 +18,8 @@ Bored of my profile? Go checkout someone elses!
         </a>
       </td>
       <td align="center">
-        <a href="https://psyfer.io" title="Visit My ArtStation">
-          🎨 ArtStation
+        <a href="https://psyfer.io" title="Random">
+          🎨 Random
         </a>
       </td>
       <td align="center">
