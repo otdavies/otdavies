@@ -4,6 +4,6 @@
 
 Did you wake up this morning and realize you need an *opensource non-destructive procedural vector editor?* Checkout [Graphite](https://github.com/GraphiteEditor/Graphite)
 
-![Profile Views](https://view-counter.psyfer.workers.dev)
-
 Enjoy clicking around my stochastic programming adventures.
+
+![Profile Views](https://view-counter.psyfer.workers.dev)
